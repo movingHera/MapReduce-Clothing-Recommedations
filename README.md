@@ -1,2 +1,2 @@
-# MapReduce-Clothing-Recommedating-System
-MapReduce Clothing Recommedating System
+# MapReduce-Clothing-Recommedations
+MapReduce Clothing Recommedations
